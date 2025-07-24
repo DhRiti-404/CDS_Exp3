@@ -69,7 +69,7 @@ This program:
 
 ---
 
-## Conclusion
+## ✅ Conclusion
 This experiment gives me practical understanding of how operators in C++ influence program logic. By working with:
 - Relational (`==`, `<`, `>`, etc.)
 - Logical (`&&`, `||`)
